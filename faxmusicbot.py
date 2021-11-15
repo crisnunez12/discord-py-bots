@@ -175,4 +175,5 @@ async def rules(ctx):
     global ctxForAll
     await ctxForAll.send("ONLY COMMANDS IN THIS CHAT!. This command does not exist. I know this message might be annoying, but you are NOT supposed to talk here!")
             
-bot.run("OTAxNDUyMTUyNjEyOTgyODU0.YXQEvQ.VMLruGG8YB80co0zuc__1tXmF1w")
+bot.run("HERE_GOES_YOUR_TOKEN")
+#I cannot publish my own token, if not discord will take my bot down, as this is not intended by their dev. application system. In order to try it for yourself, you need your own token!

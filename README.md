@@ -21,6 +21,6 @@ Feel free to explore the code and understand it.
 
 *--KNOWN ISSUES--*
 
-*- Sometimes pafy's webmedia scrapping fails miserably, causing it to have keyerrors such as: ![image](https://user-images.githubusercontent.com/72417669/141794022-69f03b27-fd9a-4d93-a9f9-5b4142ee547c.png) - Hopefully I will find a fix to this soon, as it is very annoying, plus if it happens with the first song to be played, it would force the user to skip it in order to go to the next one, or let the bot stay silent for the songs duration.
+*- Sometimes pafy's webmedia scrapping fails miserably, causing it to have keyerrors such as: KeyError: "dislike_count" - Hopefully I will find a fix to this soon, as it is very annoying, plus if it happens with the first song to be played, it would force the user to skip it in order to go to the next one, or let the bot stay silent for the songs duration.
 
 *- Sometimes it can randomly lag the music, arguably due to network issues/ too many API requests.
